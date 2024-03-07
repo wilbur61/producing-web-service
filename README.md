@@ -17,7 +17,7 @@ Import it to Eclipse or you favorite IDE.
 
 you will need to download curl if it not on your machine:
 
-https://curl.se/windows/Links to an external site.
+https://curl.se/windows
 
 https://everything.curl.dev/get/macos
 
