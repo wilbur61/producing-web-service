@@ -11,9 +11,7 @@ By the end of this lab, learners will be able to describe and utilize the SOAP w
 
 Please goto this site  ( or fork this code ) :
 
-https://spring.io/guides/gs/producing-web-service/Links to an external site
-
-Download and unzip the source repository for this guide, or clone it.
+https://spring.io/guides/gs/producing-web-service  
 
 Import it to Eclipse or you favorite IDE.
 
